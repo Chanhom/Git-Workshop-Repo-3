@@ -1,2 +1,3 @@
-Wellcome to GIT
 Hello Visual Studio : commit3
+My Name is "AOM"
+I am a programmer
