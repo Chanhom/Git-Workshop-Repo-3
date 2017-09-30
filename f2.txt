@@ -1,6 +1,5 @@
 f2
-Edit Line 2
-f2
+f2 xxxxxx (edit from ft3)
 f2
 f2
 f2
